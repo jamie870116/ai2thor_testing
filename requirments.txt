@@ -1,0 +1,4 @@
+openai
+ai2thor
+scipy
+google-generativeai
